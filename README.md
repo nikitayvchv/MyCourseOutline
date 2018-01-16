@@ -15,7 +15,7 @@ This is a repository to help with marking the work that I have done over the ent
 * Nature of Code from Khan Academy is 100% complete and [in this repository](https://github.com/nikitayvchv/NatureOfCode). This was probably my favourite Khan Academy course.
 ---------------------
 5. GitHub Profile
-* My GitHub Profile can be found [here](https://nikitayvchv.github.io/SpiralCode/Profile/). I have not yet found a way to make the projects I have be on the same repo so i'll have to figure that out.
+* My GitHub Profile can be found [here](https://nikitayvchv.github.io/GithubProfile/Profile/). A page that's about me and that features pictures of some of my favourite projects, and then 4 links to projects I want people to be able to interact with.
 ---------------------
 6. 20Time
 * My 20Time project has it's own repo on my profile found [here](https://github.com/nikitayvchv/20TimeProject). The presentation has been directly shared with you on Google Slides (you probably recieved an email as well).
