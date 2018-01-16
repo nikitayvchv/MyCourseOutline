@@ -1,18 +1,18 @@
 # My Course Outline
-This is a repository to help with marking the work that I have done over the entire course. I'll put links and all of the code in this repo so that it's all in one place. There will also be notes and stuff to help out.
+This is a repository to help with marking the work that I have done over the entire course. I'll put links to all of the code in this repo so that it's all in one place. There will also be notes and stuff to help out.
 
 ## 10 Strands I have done:
 1. JavaScript
-* JavaScript will be found on Khan Academy. All of the projects and challenges have been 100% completed and the projects themselves will be in this repo in their own folder. 
+* JavaScript will be found on Khan Academy. All of the projects and challenges have been 100% completed and the projects themselves are [in this repo](https://github.com/AYJACKSON-ICS4U/9-projects-on-learning-js-on-khan-nikitayvchv). 
 ---------------------
 2. HTML/CSS
-* HTML/CSS is 100% completed as well --> the projects themselves will be in this repo.
+* HTML/CSS is 100% completed as well --> the projects themselves will be [in this repo](https://github.com/AYJACKSON-ICS4U/intro-to-html-css-nikitayvchv).
 ---------------------
 3. Algorithms
-* Algorithms is 100% complete, however one of the projects (Recursive Art) is bugged and not able to submit, so it only shows as 98% complete. They will be here in this repo.
+* Algorithms is 100% complete, however one of the projects (Recursive Art) is bugged and not able to submit, so it only shows as 98% complete. They will be here [in this repo](https://github.com/AYJACKSON-ICS4U/computer-science-algorithms-nikitayvchv).
 ---------------------
 4. Nature of Code
-* Nature of Code from Khan Academy is 100% complete and in this repository. This was probably my favourite Khan Academy course.
+* Nature of Code from Khan Academy is 100% complete and [in this repository](https://github.com/nikitayvchv/NatureOfCode). This was probably my favourite Khan Academy course.
 ---------------------
 5. GitHub Profile
 * My GitHub Profile can be found [here](https://nikitayvchv.github.io/SpiralCode/Profile/). I have not yet found a way to make the projects I have be on the same repo so i'll have to figure that out.
