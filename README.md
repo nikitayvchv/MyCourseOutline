@@ -30,7 +30,7 @@ This is a repository to help with marking the work that I have done over the ent
 * Our coding challenge is going to be presented in class. We did the Fireworks challenge by Daniel Shiffman. Our repo is [here](https://github.com/JNGUY5/FireworksCodingChalleng), so that we all have a copy of the code and what we individually did. My role was to figure out the "challenge" part, and how to make different shapes with the fireworks. I made hearts. I also have an example of the running code [here](https://nikitayvchv.github.io/Fireworks/my_fireworks/my_project/).
 ---------------------
 10. Workflow
-* Workflow will be done on the Exam date. I will update this part of the repo when it's completed.
+* The workflow screenshots from Git-it are all in the repo (in the GitStuff folder). Everything is done except the collaborator because this was too last minute for me to find someone to collab with. Either way, my workflow is pretty flow-y!
 ---------------------
 Thank you for a wonderful course, Mr. O!
 
